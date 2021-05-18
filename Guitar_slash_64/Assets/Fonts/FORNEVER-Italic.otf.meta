@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 132dda76b61eb45478ec08ffe278cfdb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FORNEVER
+  fontNames:
+  - FORNEVER
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21f2d6f378d46c040aa2941b02bb323b, type: 3}
+  - {fileID: 12800000, guid: 621a9a35cfbcdc743805304b054e2e44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
